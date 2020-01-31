@@ -6,7 +6,7 @@ namespace project1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Making an initial commit to Project one");
         }
     }
 }
